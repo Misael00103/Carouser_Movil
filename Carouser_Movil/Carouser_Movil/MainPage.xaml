@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Xamd.ImageCarousel.Forms.Plugin.Abstractions;assembly=Xamd.ImageCarousel.Forms.Plugin.Abstractions"
+             x:Class="Carouser_Movil.MainPage">
+
+    <StackLayout>
+        <StackLayout
+                Padding="5"
+                BackgroundColor="#2f3640"
+                Orientation="Horizontal">
+            <BoxView Color="#fbc531" WidthRequest="5"/>
+            <Image Source="logo.png" HeightRequest="100"/>
+            <BoxView Color="#fbc531" WidthRequest="5"/>
+            <Label
+                    FontAttributes="Bold"
+                    FontSize="40"
+                    Text="Misael Beriguete"
+                 TextColor="White"
+                    VerticalTextAlignment="Center" 
+                HorizontalTextAlignment="Center"/>
+            <BoxView Color="#fbc531" WidthRequest="5"/>
+        </StackLayout>
+        <Frame BackgroundColor="#dcdde1"
+               BorderColor="#00a8ff"
+               CornerRadius="1"
+               Padding="25"
+               Margin="1">
+            <Label Text="Mis Películas Favoritas"
+                   FontSize="25"
+                   TextColor="#192a56"
+                   HorizontalTextAlignment="Center"/>
+        </Frame>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="End">
+            <controls:ImageCarousel x:Name="imgSlider" HeightRequest="900" WidthRequest="420" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\bin\Debug\netstandard2.0\Carouser_Movil.deps.json
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\bin\Debug\netstandard2.0\Carouser_Movil.dll
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\bin\Debug\netstandard2.0\Carouser_Movil.pdb
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.csproj.AssemblyReference.cache
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.AssemblyInfoInputs.cache
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.AssemblyInfo.cs
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.csproj.CoreCompileInputs.cache
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.dll
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\refint\Carouser_Movil.dll
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\Carouser_Movil.pdb
+C:\Users\Misael Beriguete\source\repos\Carouser_Movil\Carouser_Movil\Carouser_Movil\obj\Debug\netstandard2.0\ref\Carouser_Movil.dll
